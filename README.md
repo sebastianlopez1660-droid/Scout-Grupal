@@ -1,4 +1,4 @@
-# Scout Grupal
+# ScoutingApp
 
 App de scouting de futbol (Sebastian Lopez).
 
